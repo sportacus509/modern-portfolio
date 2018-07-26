@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sportacus509/modern-portfolio#readme",
   "devDependencies": {
     "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.4.1",
